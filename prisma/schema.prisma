@@ -3,7 +3,7 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
@@ -14,20 +14,20 @@ model Barang {
   kategori   String
   lokasi     String
   jumlah     Int
-  kondisi    String // Baik | Rusak Ringan | Rusak Berat
-  tahun      Int // tahun perolehan
-  harga      Int // harga satuan (Rp)
-  sumberDana String // BOS | APBD Provinsi | Komite Sekolah | Hibah / CSR
-  perawatan  Perawatan[]
+  kondisi    String
+  tahun      Int
+  harga      Int
+  sumberDana String
   createdAt  DateTime    @default(now())
+  perawatan  Perawatan[]
 }
 
 model Perawatan {
   id         Int      @id @default(autoincrement())
   barangId   Int
-  barang     Barang   @relation(fields: [barangId], references: [id], onDelete: Cascade)
   tanggal    DateTime
-  jenis      String // Servis Rutin | Perbaikan | Penggantian Komponen
+  jenis      String
   biaya      Int
   keterangan String
+  barang     Barang   @relation(fields: [barangId], references: [id], onDelete: Cascade)
 }
