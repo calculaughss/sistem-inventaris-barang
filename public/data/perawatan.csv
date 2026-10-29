@@ -1,0 +1,91 @@
+kode,tanggal,jenis,biaya,keterangan
+INV-038,2025-11-03,Perbaikan,285000,Perbaikan Lemari Arsip Tipe B
+INV-071,2025-11-04,Penggantian Komponen,1965000,Penggantian Komponen Buku Paket Pelajaran Tipe C
+INV-056,2025-11-15,Perbaikan,1255000,Perbaikan Canting Batik Tulis Tipe C
+INV-093,2025-11-20,Servis Rutin,230000,Servis Rutin Bola Voli Tipe D
+INV-069,2025-11-20,Penggantian Komponen,2950000,Penggantian Komponen Bola Basket Tipe C
+INV-059,2025-11-21,Servis Rutin,245000,Servis Rutin Cap Batik Tembaga Tipe C
+INV-061,2025-11-25,Penggantian Komponen,960000,Penggantian Komponen Meja Siswa Tipe C
+INV-021,2025-11-25,Servis Rutin,305000,Servis Rutin Buku Paket Pelajaran Tipe A
+INV-036,2025-12-05,Perbaikan,220000,Perbaikan Meja Siswa Tipe B
+INV-024,2025-12-08,Perbaikan,1045000,Perbaikan AC Split 1 PK Tipe A
+INV-058,2025-12-14,Penggantian Komponen,2000000,Penggantian Komponen Kompor Batik Listrik Tipe C
+INV-082,2025-12-17,Penggantian Komponen,2290000,Penggantian Komponen Wajan Lilin Malam Tipe D
+INV-071,2025-12-19,Penggantian Komponen,2485000,Penggantian Komponen Buku Paket Pelajaran Tipe C
+INV-033,2026-01-01,Perbaikan,445000,Perbaikan Kompor Batik Listrik Tipe B
+INV-064,2026-01-01,Penggantian Komponen,410000,Penggantian Komponen Papan Tulis Whiteboard Tipe C
+INV-071,2026-01-01,Perbaikan,455000,Perbaikan Buku Paket Pelajaran Tipe C
+INV-068,2026-01-18,Perbaikan,915000,Perbaikan Bola Voli Tipe C
+INV-081,2026-01-18,Servis Rutin,130000,Servis Rutin Canting Batik Tulis Tipe D
+INV-093,2026-01-18,Servis Rutin,150000,Servis Rutin Bola Voli Tipe D
+INV-068,2026-01-20,Servis Rutin,315000,Servis Rutin Bola Voli Tipe C
+INV-060,2026-01-22,Penggantian Komponen,2145000,Penggantian Komponen Gawangan Kayu Tipe C
+INV-070,2026-01-24,Perbaikan,1135000,Perbaikan Matras Senam Tipe C
+INV-073,2026-02-03,Perbaikan,280000,Perbaikan Mesin Jahit Tipe C
+INV-081,2026-02-04,Servis Rutin,120000,Servis Rutin Canting Batik Tulis Tipe D
+INV-041,2026-02-05,Perbaikan,695000,Perbaikan Mikroskop Tipe B
+INV-021,2026-02-06,Perbaikan,195000,Perbaikan Buku Paket Pelajaran Tipe A
+INV-052,2026-02-10,Servis Rutin,160000,Servis Rutin Laptop Tipe C
+INV-082,2026-02-15,Servis Rutin,190000,Servis Rutin Wajan Lilin Malam Tipe D
+INV-019,2026-02-17,Penggantian Komponen,2340000,Penggantian Komponen Bola Basket Tipe A
+INV-058,2026-02-27,Penggantian Komponen,400000,Penggantian Komponen Kompor Batik Listrik Tipe C
+INV-059,2026-03-05,Perbaikan,820000,Perbaikan Cap Batik Tembaga Tipe C
+INV-066,2026-03-13,Servis Rutin,235000,Servis Rutin Mikroskop Tipe C
+INV-087,2026-03-19,Servis Rutin,195000,Servis Rutin Kursi Siswa Tipe D
+INV-009,2026-03-21,Servis Rutin,285000,Servis Rutin Cap Batik Tembaga Tipe A
+INV-023,2026-03-27,Penggantian Komponen,1760000,Penggantian Komponen Mesin Jahit Tipe A
+INV-004,2026-04-08,Penggantian Komponen,1715000,Penggantian Komponen Printer Tipe A
+INV-030,2026-04-09,Perbaikan,540000,Perbaikan Router WiFi Tipe B
+INV-056,2026-04-19,Servis Rutin,150000,Servis Rutin Canting Batik Tulis Tipe C
+INV-024,2026-04-19,Servis Rutin,265000,Servis Rutin AC Split 1 PK Tipe A
+INV-003,2026-04-22,Perbaikan,1260000,Perbaikan Proyektor LCD Tipe A
+INV-030,2026-05-01,Penggantian Komponen,1790000,Penggantian Komponen Router WiFi Tipe B
+INV-075,2026-05-01,Perbaikan,905000,Perbaikan Mesin Fotokopi Tipe C
+INV-009,2026-05-04,Servis Rutin,130000,Servis Rutin Cap Batik Tembaga Tipe A
+INV-006,2026-05-15,Servis Rutin,95000,Servis Rutin Canting Batik Tulis Tipe A
+INV-097,2026-05-18,Perbaikan,290000,Perbaikan Rak Buku Tipe D
+INV-065,2026-05-20,Perbaikan,610000,Perbaikan Meja Guru Tipe C
+INV-023,2026-05-21,Perbaikan,1210000,Perbaikan Mesin Jahit Tipe A
+INV-053,2026-05-22,Servis Rutin,345000,Servis Rutin Proyektor LCD Tipe C
+INV-069,2026-05-26,Penggantian Komponen,460000,Penggantian Komponen Bola Basket Tipe C
+INV-097,2026-06-01,Perbaikan,715000,Perbaikan Rak Buku Tipe D
+INV-065,2026-06-02,Perbaikan,535000,Perbaikan Meja Guru Tipe C
+INV-053,2026-06-04,Perbaikan,310000,Perbaikan Proyektor LCD Tipe C
+INV-082,2026-06-04,Penggantian Komponen,1655000,Penggantian Komponen Wajan Lilin Malam Tipe D
+INV-094,2026-06-06,Perbaikan,475000,Perbaikan Bola Basket Tipe D
+INV-005,2026-06-06,Servis Rutin,390000,Servis Rutin Router WiFi Tipe A
+INV-004,2026-06-07,Penggantian Komponen,1955000,Penggantian Komponen Printer Tipe A
+INV-041,2026-06-11,Servis Rutin,210000,Servis Rutin Mikroskop Tipe B
+INV-024,2026-06-12,Servis Rutin,95000,Servis Rutin AC Split 1 PK Tipe A
+INV-041,2026-06-14,Perbaikan,885000,Perbaikan Mikroskop Tipe B
+INV-065,2026-06-16,Perbaikan,370000,Perbaikan Meja Guru Tipe C
+INV-035,2026-06-20,Penggantian Komponen,2545000,Penggantian Komponen Gawangan Kayu Tipe B
+INV-025,2026-06-23,Perbaikan,625000,Perbaikan Mesin Fotokopi Tipe A
+INV-017,2026-06-24,Perbaikan,1020000,Perbaikan Timbangan Digital Tipe A
+INV-080,2026-06-24,Servis Rutin,95000,Servis Rutin Router WiFi Tipe D
+INV-072,2026-06-25,Perbaikan,395000,Perbaikan Rak Buku Tipe C
+INV-036,2026-06-26,Penggantian Komponen,405000,Penggantian Komponen Meja Siswa Tipe B
+INV-004,2026-06-27,Penggantian Komponen,1130000,Penggantian Komponen Printer Tipe A
+INV-081,2026-07-13,Servis Rutin,50000,Servis Rutin Canting Batik Tulis Tipe D
+INV-002,2026-07-15,Penggantian Komponen,2625000,Penggantian Komponen Laptop Tipe A
+INV-053,2026-07-19,Penggantian Komponen,1950000,Penggantian Komponen Proyektor LCD Tipe C
+INV-086,2026-07-23,Penggantian Komponen,1345000,Penggantian Komponen Meja Siswa Tipe D
+INV-003,2026-07-25,Penggantian Komponen,2105000,Penggantian Komponen Proyektor LCD Tipe A
+INV-090,2026-07-26,Penggantian Komponen,2165000,Penggantian Komponen Meja Guru Tipe D
+INV-002,2026-07-27,Servis Rutin,120000,Servis Rutin Laptop Tipe A
+INV-092,2026-08-10,Servis Rutin,295000,Servis Rutin Timbangan Digital Tipe D
+INV-034,2026-08-20,Penggantian Komponen,1675000,Penggantian Komponen Cap Batik Tembaga Tipe B
+INV-065,2026-08-24,Penggantian Komponen,1750000,Penggantian Komponen Meja Guru Tipe C
+INV-092,2026-08-25,Perbaikan,1305000,Perbaikan Timbangan Digital Tipe D
+INV-080,2026-08-26,Penggantian Komponen,495000,Penggantian Komponen Router WiFi Tipe D
+INV-095,2026-08-26,Penggantian Komponen,2290000,Penggantian Komponen Matras Senam Tipe D
+INV-041,2026-09-06,Servis Rutin,175000,Servis Rutin Mikroskop Tipe B
+INV-016,2026-09-12,Servis Rutin,395000,Servis Rutin Mikroskop Tipe A
+INV-033,2026-09-20,Penggantian Komponen,1775000,Penggantian Komponen Kompor Batik Listrik Tipe B
+INV-048,2026-09-24,Perbaikan,700000,Perbaikan Mesin Jahit Tipe B
+INV-081,2026-09-24,Servis Rutin,205000,Servis Rutin Canting Batik Tulis Tipe D
+INV-068,2026-10-03,Servis Rutin,90000,Servis Rutin Bola Voli Tipe C
+INV-095,2026-10-07,Penggantian Komponen,2895000,Penggantian Komponen Matras Senam Tipe D
+INV-066,2026-10-13,Penggantian Komponen,2550000,Penggantian Komponen Mikroskop Tipe C
+INV-020,2026-10-17,Penggantian Komponen,2250000,Penggantian Komponen Matras Senam Tipe A
+INV-059,2026-10-23,Perbaikan,1445000,Perbaikan Cap Batik Tembaga Tipe C

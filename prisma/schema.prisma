@@ -1,0 +1,33 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Barang {
+  id         Int         @id @default(autoincrement())
+  kode       String      @unique
+  nama       String
+  kategori   String
+  lokasi     String
+  jumlah     Int
+  kondisi    String // Baik | Rusak Ringan | Rusak Berat
+  tahun      Int // tahun perolehan
+  harga      Int // harga satuan (Rp)
+  sumberDana String // BOS | APBD Provinsi | Komite Sekolah | Hibah / CSR
+  perawatan  Perawatan[]
+  createdAt  DateTime    @default(now())
+}
+
+model Perawatan {
+  id         Int      @id @default(autoincrement())
+  barangId   Int
+  barang     Barang   @relation(fields: [barangId], references: [id], onDelete: Cascade)
+  tanggal    DateTime
+  jenis      String // Servis Rutin | Perbaikan | Penggantian Komponen
+  biaya      Int
+  keterangan String
+}

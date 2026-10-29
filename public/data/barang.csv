@@ -1,0 +1,101 @@
+kode,nama,kategori,lokasi,jumlah,kondisi,tahun,harga,sumberDana
+INV-001,PC Desktop Tipe A,Elektronik & TIK,Lab Komputer,6,Baik,2018,6798000,Hibah / CSR
+INV-002,Laptop Tipe A,Elektronik & TIK,Ruang Guru,4,Baik,2023,7867000,BOS
+INV-003,Proyektor LCD Tipe A,Elektronik & TIK,Ruang Kelas,3,Rusak Ringan,2018,4387000,APBD Provinsi
+INV-004,Printer Tipe A,Elektronik & TIK,Ruang TU,1,Rusak Ringan,2022,1888000,APBD Provinsi
+INV-005,Router WiFi Tipe A,Elektronik & TIK,Lab Komputer,1,Rusak Berat,2021,922000,Komite Sekolah
+INV-006,Canting Batik Tulis Tipe A,Peralatan Batik,Workshop Batik,35,Rusak Ringan,2025,38000,APBD Provinsi
+INV-007,Wajan Lilin Malam Tipe A,Peralatan Batik,Workshop Batik,13,Baik,2019,112000,BOS
+INV-008,Kompor Batik Listrik Tipe A,Peralatan Batik,Workshop Batik,6,Baik,2025,253000,BOS
+INV-009,Cap Batik Tembaga Tipe A,Peralatan Batik,Workshop Batik,1,Rusak Ringan,2018,455000,Komite Sekolah
+INV-010,Gawangan Kayu Tipe A,Peralatan Batik,Workshop Batik,6,Baik,2025,137000,BOS
+INV-011,Meja Siswa Tipe A,Mebel,Ruang Kelas,27,Baik,2025,351000,BOS
+INV-012,Kursi Siswa Tipe A,Mebel,Ruang Kelas,12,Baik,2019,197000,BOS
+INV-013,Lemari Arsip Tipe A,Mebel,Ruang TU,3,Baik,2018,1622000,APBD Provinsi
+INV-014,Papan Tulis Whiteboard Tipe A,Mebel,Ruang Kelas,4,Baik,2022,602000,Komite Sekolah
+INV-015,Meja Guru Tipe A,Mebel,Ruang Guru,8,Baik,2019,781000,APBD Provinsi
+INV-016,Mikroskop Tipe A,Laboratorium,Lab IPA,3,Baik,2019,2739000,APBD Provinsi
+INV-017,Timbangan Digital Tipe A,Laboratorium,Lab IPA,1,Rusak Ringan,2024,595000,Komite Sekolah
+INV-018,Bola Voli Tipe A,Olahraga,Gudang Olahraga,1,Baik,2025,236000,BOS
+INV-019,Bola Basket Tipe A,Olahraga,Gudang Olahraga,5,Rusak Ringan,2021,278000,BOS
+INV-020,Matras Senam Tipe A,Olahraga,Gudang Olahraga,8,Rusak Berat,2024,595000,Hibah / CSR
+INV-021,Buku Paket Pelajaran Tipe A,Perpustakaan,Perpustakaan,1,Rusak Ringan,2018,87000,BOS
+INV-022,Rak Buku Tipe A,Perpustakaan,Perpustakaan,2,Baik,2023,1197000,APBD Provinsi
+INV-023,Mesin Jahit Tipe A,Peralatan Batik,Ruang Praktik Busana,9,Rusak Ringan,2018,2339000,BOS
+INV-024,AC Split 1 PK Tipe A,Elektronik & TIK,Ruang Kepala Sekolah,2,Rusak Berat,2016,4114000,BOS
+INV-025,Mesin Fotokopi Tipe A,Elektronik & TIK,Ruang TU,1,Rusak Ringan,2025,11252000,Hibah / CSR
+INV-026,PC Desktop Tipe B,Elektronik & TIK,Lab Komputer,14,Rusak Berat,2018,6140000,APBD Provinsi
+INV-027,Laptop Tipe B,Elektronik & TIK,Ruang Guru,1,Baik,2023,8113000,APBD Provinsi
+INV-028,Proyektor LCD Tipe B,Elektronik & TIK,Ruang Kelas,1,Rusak Ringan,2017,4877000,APBD Provinsi
+INV-029,Printer Tipe B,Elektronik & TIK,Ruang TU,2,Baik,2016,2046000,APBD Provinsi
+INV-030,Router WiFi Tipe B,Elektronik & TIK,Lab Komputer,4,Rusak Berat,2023,836000,Hibah / CSR
+INV-031,Canting Batik Tulis Tipe B,Peralatan Batik,Workshop Batik,53,Baik,2019,33000,Komite Sekolah
+INV-032,Wajan Lilin Malam Tipe B,Peralatan Batik,Workshop Batik,9,Baik,2019,123000,Hibah / CSR
+INV-033,Kompor Batik Listrik Tipe B,Peralatan Batik,Workshop Batik,15,Rusak Ringan,2020,235000,BOS
+INV-034,Cap Batik Tembaga Tipe B,Peralatan Batik,Workshop Batik,12,Baik,2022,483000,Hibah / CSR
+INV-035,Gawangan Kayu Tipe B,Peralatan Batik,Workshop Batik,20,Rusak Berat,2017,150000,BOS
+INV-036,Meja Siswa Tipe B,Mebel,Ruang Kelas,38,Rusak Ringan,2020,328000,Komite Sekolah
+INV-037,Kursi Siswa Tipe B,Mebel,Ruang Kelas,27,Baik,2021,202000,BOS
+INV-038,Lemari Arsip Tipe B,Mebel,Ruang TU,2,Baik,2023,1358000,Komite Sekolah
+INV-039,Papan Tulis Whiteboard Tipe B,Mebel,Ruang Kelas,2,Baik,2023,575000,APBD Provinsi
+INV-040,Meja Guru Tipe B,Mebel,Ruang Guru,4,Baik,2016,791000,APBD Provinsi
+INV-041,Mikroskop Tipe B,Laboratorium,Lab IPA,6,Rusak Berat,2022,3057000,Hibah / CSR
+INV-042,Timbangan Digital Tipe B,Laboratorium,Lab IPA,3,Baik,2023,702000,Komite Sekolah
+INV-043,Bola Voli Tipe B,Olahraga,Gudang Olahraga,1,Baik,2017,229000,BOS
+INV-044,Bola Basket Tipe B,Olahraga,Gudang Olahraga,10,Baik,2017,278000,APBD Provinsi
+INV-045,Matras Senam Tipe B,Olahraga,Gudang Olahraga,2,Baik,2020,604000,APBD Provinsi
+INV-046,Buku Paket Pelajaran Tipe B,Perpustakaan,Perpustakaan,39,Baik,2019,93000,APBD Provinsi
+INV-047,Rak Buku Tipe B,Perpustakaan,Perpustakaan,5,Baik,2025,1117000,BOS
+INV-048,Mesin Jahit Tipe B,Peralatan Batik,Ruang Praktik Busana,2,Rusak Berat,2018,2449000,APBD Provinsi
+INV-049,AC Split 1 PK Tipe B,Elektronik & TIK,Ruang Kepala Sekolah,1,Baik,2022,3843000,BOS
+INV-050,Mesin Fotokopi Tipe B,Elektronik & TIK,Ruang TU,1,Baik,2020,11555000,Hibah / CSR
+INV-051,PC Desktop Tipe C,Elektronik & TIK,Lab Komputer,9,Baik,2016,6155000,BOS
+INV-052,Laptop Tipe C,Elektronik & TIK,Ruang Guru,4,Rusak Berat,2020,8354000,Komite Sekolah
+INV-053,Proyektor LCD Tipe C,Elektronik & TIK,Ruang Kelas,2,Rusak Berat,2021,4363000,Komite Sekolah
+INV-054,Printer Tipe C,Elektronik & TIK,Ruang TU,1,Baik,2021,1984000,APBD Provinsi
+INV-055,Router WiFi Tipe C,Elektronik & TIK,Lab Komputer,3,Rusak Ringan,2024,909000,APBD Provinsi
+INV-056,Canting Batik Tulis Tipe C,Peralatan Batik,Workshop Batik,30,Rusak Berat,2025,38000,BOS
+INV-057,Wajan Lilin Malam Tipe C,Peralatan Batik,Workshop Batik,6,Baik,2024,125000,BOS
+INV-058,Kompor Batik Listrik Tipe C,Peralatan Batik,Workshop Batik,16,Rusak Ringan,2018,237000,Hibah / CSR
+INV-059,Cap Batik Tembaga Tipe C,Peralatan Batik,Workshop Batik,11,Rusak Ringan,2024,462000,BOS
+INV-060,Gawangan Kayu Tipe C,Peralatan Batik,Workshop Batik,14,Rusak Ringan,2024,152000,APBD Provinsi
+INV-061,Meja Siswa Tipe C,Mebel,Ruang Kelas,28,Rusak Berat,2020,343000,BOS
+INV-062,Kursi Siswa Tipe C,Mebel,Ruang Kelas,10,Baik,2024,213000,APBD Provinsi
+INV-063,Lemari Arsip Tipe C,Mebel,Ruang TU,4,Baik,2017,1442000,APBD Provinsi
+INV-064,Papan Tulis Whiteboard Tipe C,Mebel,Ruang Kelas,1,Rusak Berat,2019,543000,BOS
+INV-065,Meja Guru Tipe C,Mebel,Ruang Guru,2,Rusak Ringan,2018,817000,Hibah / CSR
+INV-066,Mikroskop Tipe C,Laboratorium,Lab IPA,1,Rusak Ringan,2022,2529000,BOS
+INV-067,Timbangan Digital Tipe C,Laboratorium,Lab IPA,4,Rusak Ringan,2017,628000,APBD Provinsi
+INV-068,Bola Voli Tipe C,Olahraga,Gudang Olahraga,6,Rusak Ringan,2021,264000,Hibah / CSR
+INV-069,Bola Basket Tipe C,Olahraga,Gudang Olahraga,6,Rusak Ringan,2017,273000,Komite Sekolah
+INV-070,Matras Senam Tipe C,Olahraga,Gudang Olahraga,5,Rusak Ringan,2018,520000,BOS
+INV-071,Buku Paket Pelajaran Tipe C,Perpustakaan,Perpustakaan,41,Rusak Ringan,2018,103000,APBD Provinsi
+INV-072,Rak Buku Tipe C,Perpustakaan,Perpustakaan,3,Baik,2023,1238000,APBD Provinsi
+INV-073,Mesin Jahit Tipe C,Peralatan Batik,Ruang Praktik Busana,10,Rusak Ringan,2021,2555000,BOS
+INV-074,AC Split 1 PK Tipe C,Elektronik & TIK,Ruang Kepala Sekolah,3,Baik,2023,4110000,Komite Sekolah
+INV-075,Mesin Fotokopi Tipe C,Elektronik & TIK,Ruang TU,1,Rusak Berat,2017,11101000,BOS
+INV-076,PC Desktop Tipe D,Elektronik & TIK,Lab Komputer,2,Rusak Berat,2016,6191000,Hibah / CSR
+INV-077,Laptop Tipe D,Elektronik & TIK,Ruang Guru,5,Rusak Berat,2018,7329000,Komite Sekolah
+INV-078,Proyektor LCD Tipe D,Elektronik & TIK,Ruang Kelas,2,Baik,2017,4341000,APBD Provinsi
+INV-079,Printer Tipe D,Elektronik & TIK,Ruang TU,1,Baik,2016,1746000,BOS
+INV-080,Router WiFi Tipe D,Elektronik & TIK,Lab Komputer,4,Rusak Ringan,2023,852000,APBD Provinsi
+INV-081,Canting Batik Tulis Tipe D,Peralatan Batik,Workshop Batik,37,Rusak Ringan,2025,37000,BOS
+INV-082,Wajan Lilin Malam Tipe D,Peralatan Batik,Workshop Batik,10,Rusak Berat,2024,112000,Komite Sekolah
+INV-083,Kompor Batik Listrik Tipe D,Peralatan Batik,Workshop Batik,13,Baik,2020,252000,Komite Sekolah
+INV-084,Cap Batik Tembaga Tipe D,Peralatan Batik,Workshop Batik,2,Baik,2016,412000,APBD Provinsi
+INV-085,Gawangan Kayu Tipe D,Peralatan Batik,Workshop Batik,7,Baik,2022,139000,BOS
+INV-086,Meja Siswa Tipe D,Mebel,Ruang Kelas,34,Baik,2024,318000,BOS
+INV-087,Kursi Siswa Tipe D,Mebel,Ruang Kelas,17,Rusak Ringan,2025,212000,BOS
+INV-088,Lemari Arsip Tipe D,Mebel,Ruang TU,1,Baik,2022,1478000,Hibah / CSR
+INV-089,Papan Tulis Whiteboard Tipe D,Mebel,Ruang Kelas,5,Baik,2023,570000,BOS
+INV-090,Meja Guru Tipe D,Mebel,Ruang Guru,3,Rusak Berat,2020,720000,Komite Sekolah
+INV-091,Mikroskop Tipe D,Laboratorium,Lab IPA,6,Baik,2022,2799000,Hibah / CSR
+INV-092,Timbangan Digital Tipe D,Laboratorium,Lab IPA,4,Rusak Berat,2023,711000,Komite Sekolah
+INV-093,Bola Voli Tipe D,Olahraga,Gudang Olahraga,8,Rusak Ringan,2019,268000,BOS
+INV-094,Bola Basket Tipe D,Olahraga,Gudang Olahraga,7,Baik,2024,298000,Komite Sekolah
+INV-095,Matras Senam Tipe D,Olahraga,Gudang Olahraga,1,Rusak Ringan,2018,517000,Komite Sekolah
+INV-096,Buku Paket Pelajaran Tipe D,Perpustakaan,Perpustakaan,41,Baik,2022,102000,APBD Provinsi
+INV-097,Rak Buku Tipe D,Perpustakaan,Perpustakaan,2,Rusak Berat,2021,1190000,Komite Sekolah
+INV-098,Mesin Jahit Tipe D,Peralatan Batik,Ruang Praktik Busana,8,Baik,2021,2344000,APBD Provinsi
+INV-099,AC Split 1 PK Tipe D,Elektronik & TIK,Ruang Kepala Sekolah,3,Baik,2023,3646000,BOS
+INV-100,Mesin Fotokopi Tipe D,Elektronik & TIK,Ruang TU,1,Baik,2025,12164000,APBD Provinsi
